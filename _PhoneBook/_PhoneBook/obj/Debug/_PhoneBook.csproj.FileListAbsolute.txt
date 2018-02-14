@@ -1,0 +1,9 @@
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\bin\Debug\_PhoneBook.exe.config
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\bin\Debug\_PhoneBook.exe
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\bin\Debug\_PhoneBook.pdb
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\obj\Debug\_PhoneBook.csprojResolveAssemblyReference.cache
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\obj\Debug\_PhoneBook.Form1.resources
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\obj\Debug\_PhoneBook.Properties.Resources.resources
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\obj\Debug\_PhoneBook.csproj.GenerateResource.Cache
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\obj\Debug\_PhoneBook.exe
+c:\users\sunduchok\documents\visual studio 2017\Projects\_PhoneBook\_PhoneBook\obj\Debug\_PhoneBook.pdb

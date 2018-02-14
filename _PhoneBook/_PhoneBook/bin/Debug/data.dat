@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <PhoneBook>
+    <PhoneNumber>2222222</PhoneNumber>
+    <FullName>s</FullName>
+    <Email>s@s.com</Email>
+    <Address>123</Address>
+    <ID>-5</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>33232</PhoneNumber>
+    <FullName>T</FullName>
+    <Email>t@t.com</Email>
+    <Address>543</Address>
+    <ID>-6</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>26798902</PhoneNumber>
+    <FullName>Mark Beliy</FullName>
+    <Email>MarkTauren@gmail.com</Email>
+    <Address>Kartupelu</Address>
+    <ID>-7</ID>
+  </PhoneBook>
+</AppData>

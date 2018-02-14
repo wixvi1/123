@@ -1,0 +1,10 @@
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.Notedad.resources
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.frmAbout.resources
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.config
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+c:\Users\sunduchok\documents\visual studio 2017\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
